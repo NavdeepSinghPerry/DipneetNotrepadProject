@@ -1,0 +1,8 @@
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\navdeep\navdeep\bin\Debug\navdeep.exe.config
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\navdeep\navdeep\bin\Debug\navdeep.exe
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\navdeep\navdeep\bin\Debug\navdeep.pdb
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\navdeep\navdeep\obj\Debug\navdeep.csproj.AssemblyReference.cache
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\navdeep\navdeep\obj\Debug\navdeep.csproj.SuggestedBindingRedirects.cache
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\navdeep\navdeep\obj\Debug\navdeep.csproj.CoreCompileInputs.cache
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\navdeep\navdeep\obj\Debug\navdeep.exe
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\navdeep\navdeep\obj\Debug\navdeep.pdb

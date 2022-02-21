@@ -1,0 +1,15 @@
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\WpfWix\WpfWix\bin\Debug\WpfWix.exe.config
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\WpfWix\WpfWix\bin\Debug\WpfWix.exe
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\WpfWix\WpfWix\bin\Debug\WpfWix.pdb
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\WpfWix\WpfWix\obj\Debug\WpfWix.csproj.SuggestedBindingRedirects.cache
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\WpfWix\WpfWix\obj\Debug\MainWindow.g.cs
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\WpfWix\WpfWix\obj\Debug\App.g.cs
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\WpfWix\WpfWix\obj\Debug\WpfWix_MarkupCompile.cache
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\WpfWix\WpfWix\obj\Debug\WpfWix_MarkupCompile.lref
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\WpfWix\WpfWix\obj\Debug\MainWindow.baml
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\WpfWix\WpfWix\obj\Debug\WpfWix.g.resources
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\WpfWix\WpfWix\obj\Debug\WpfWix.Properties.Resources.resources
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\WpfWix\WpfWix\obj\Debug\WpfWix.csproj.GenerateResource.cache
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\WpfWix\WpfWix\obj\Debug\WpfWix.csproj.CoreCompileInputs.cache
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\WpfWix\WpfWix\obj\Debug\WpfWix.exe
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\WpfWix\WpfWix\obj\Debug\WpfWix.pdb

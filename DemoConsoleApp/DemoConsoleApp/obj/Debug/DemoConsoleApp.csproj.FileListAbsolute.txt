@@ -1,0 +1,8 @@
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\DemoConsoleApp\DemoConsoleApp\bin\Debug\DemoConsoleApp.exe.config
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\DemoConsoleApp\DemoConsoleApp\bin\Debug\DemoConsoleApp.exe
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\DemoConsoleApp\DemoConsoleApp\bin\Debug\DemoConsoleApp.pdb
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\DemoConsoleApp\DemoConsoleApp\obj\Debug\DemoConsoleApp.csproj.AssemblyReference.cache
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\DemoConsoleApp\DemoConsoleApp\obj\Debug\DemoConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\DemoConsoleApp\DemoConsoleApp\obj\Debug\DemoConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\DemoConsoleApp\DemoConsoleApp\obj\Debug\DemoConsoleApp.exe
+C:\Users\navdeepsingh\Desktop\DIPNEET_Git\DemoConsoleApp\DemoConsoleApp\obj\Debug\DemoConsoleApp.pdb

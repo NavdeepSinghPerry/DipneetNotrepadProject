@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aa031ca8-79c0-4201-802a-f10f3a71de82": {
+      "ProjectGuid": "aa031ca8-79c0-4201-802a-f10f3a71de82",
+      "DisplayName": "navdeep",
+      "ColorIndex": 0
+    },
+    "a9ff8560-213c-4384-b371-2a3cbae3fa6e": {
+      "ProjectGuid": "a9ff8560-213c-4384-b371-2a3cbae3fa6e",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

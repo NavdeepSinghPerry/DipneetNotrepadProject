@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e64a12e9-da47-4c30-95b4-bf2c4b04968e": {
+      "ProjectGuid": "e64a12e9-da47-4c30-95b4-bf2c4b04968e",
+      "DisplayName": "DemoConsoleApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

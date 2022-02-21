@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4cdb6740-95ed-4862-8913-84a960112853": {
+      "ProjectGuid": "4cdb6740-95ed-4862-8913-84a960112853",
+      "DisplayName": "WpfWix",
+      "ColorIndex": 0
+    },
+    "81072ffe-bd61-4449-9f00-a0d1fa0d11cc": {
+      "ProjectGuid": "81072ffe-bd61-4449-9f00-a0d1fa0d11cc",
+      "DisplayName": "WpfWix.Installer",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
